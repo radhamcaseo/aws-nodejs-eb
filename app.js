@@ -15,7 +15,7 @@ app.use(bodyParser.urlencoded({extended:false}))
 
 app.get('/', function (req, res) {
   res.render('index', {
-    title: 'S3 CloudHub YT channel & Elastic Beanstalk-demo class'
+    title: 'S3 CloudHub YT channel & Elastic Beanstalk-demo class-Samson Bhai'
     })
     res.status(200).end();
 })
